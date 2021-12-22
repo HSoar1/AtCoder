@@ -1,4 +1,4 @@
-package AtCoderBeginnerContest230
+package main
 
 import (
 	"fmt"
